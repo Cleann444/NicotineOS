@@ -5,4 +5,4 @@ Run the installer found below, hover over the Notch at the top where you will fi
 
 <a href="https://github.com/Cleann444/NicotineOS/releases/download/Nic-OS/NicotineOS.v0.9.7.Beta_setup.exe"><img alt="Download Release" src="https://img.shields.io/badge/Download-Release-green"></a>
 
-*Warning This Product can contain addictive Chemicals*
+*warning this product can contain addictive substances*
